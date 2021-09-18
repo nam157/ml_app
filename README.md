@@ -5,4 +5,4 @@ Predict salary
 
 Explore data
 
-![image](https://user-images.githubusercontent.com/72034584/133870289-ad2c8590-ac0a-433b-aea3-ace1153515ac.png)
+![Chụp web_18-9-2021_10330_localhost](https://user-images.githubusercontent.com/72034584/133870417-85bca997-360a-425b-97cb-46930f3e2474.jpeg)
